@@ -39,4 +39,4 @@ python manage.py createsuperuser
 python manage.py runserver
 
 # Access Admin Dashboard
-Add /admin at the url link
+Add /admin at the url link 
